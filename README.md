@@ -1,10 +1,3 @@
-# CS-330
+About the Project:
 
-1. How do I approach designing new software?
-I approach designing software in a regimented and modular way. I really enjoy making programs that are organized and nice to look at and, in turn, easy to follow and comprehend. As I rally apprectiate when others take the time to orgranized their code and make it easy to understand, I feel I should do the same. This project has further helped me in honing those skills of being organzied and modular. I really benefit from visualizing a final product in my head and then working backwards to figure out how to arrive at the final solution. So, for this project, I followed a similar process in figuring out how to design and place objects in the 3D scene. 
-
-2. How do I approach developing programs?
-I did not really implement any "new" strategies for developing this program, rather, I looked to previous methods I had used and hoped they would guide me to a solution. Iteration was a large part of my development process. Since I made to sure that each of the functions in my program were modular, I could reuse them when I needed to implement a feature for another assignment. Like, for example, implementing camera controls for a majority of the assignments. As I worked through the milestones, it became more apparent to me that there were difficulties for me along the development path. Most specifically, getting more than one object to appear on the screen. This was a major problem for me that I struggled with and made me realize my limitations as a programmer that I will inevtiably have to break through.
-
-3. How can comptuer science help me in reaching my goals?
-I would like to do software development/engineering in the future, however, computational graphics and visualization will most definitely not be my strong suit. This course has helped me in understanding where my limitations lie as a programmer and helped more clearly define those boundaries that will require more work and effort out of me to push through and ultimately master. 
+In this project, I utilized the OpenGL API for C/C++ to create a simple 3D scene of a kitchen island and various other vertex based objects, like a coffee mug and a dinner plate. It involved creating custom shaders and lighting effects as well as implementing dynamic vertex based objects that allowed the user to traverse through the scene via their keyboard through integrating a camera into the project.
